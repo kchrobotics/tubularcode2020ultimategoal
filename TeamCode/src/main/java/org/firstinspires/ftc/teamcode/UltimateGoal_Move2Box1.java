@@ -98,7 +98,7 @@ public class UltimateGoal_Move2Box1 extends LinearOpMode {
 
         int rings =  4 ;   //robot.highrings();
 
-        telemetry.addData("Status", "I c this many rings"  + rings );    //
+        telemetry.addData("Status", "I see this many rings"  + rings );    //
         telemetry.update();
         sleep(2000);
 
